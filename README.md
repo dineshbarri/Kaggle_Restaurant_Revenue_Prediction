@@ -4,7 +4,7 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://dineshbarri.github.io/Kaggle_Restaurant_Revenue_Prediction/)
 
-> Predictive analytics for strategic site selection — model, features, and results.
+> Preview .
 
 <p align="center">
   <a href="https://dineshbarri.github.io/Kaggle_Restaurant_Revenue_Prediction/" target="_blank">
