@@ -12,6 +12,7 @@
   </a>
 </p>
 
+### 🚀 Check out the Live Demo for the full interactive analysis!
 <p align="center">
   <a href="https://dineshbarri.github.io/Kaggle_Restaurant_Revenue_Prediction/" target="_blank">🔗 Live Demo</a> •
   <a href="https://github.com/dineshbarri/Kaggle_Restaurant_Revenue_Prediction">📁 Source</a>
